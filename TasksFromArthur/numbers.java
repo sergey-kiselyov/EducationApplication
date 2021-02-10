@@ -1,4 +1,4 @@
-package stringOutput;
+package TasksFromArthur;
 
 import java.util.Scanner;
 
