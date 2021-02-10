@@ -2,7 +2,7 @@ package stringOutput;
 
 import java.util.Scanner;
 
-public class numberic {
+public class numbers {
     public static void main(String[] args) {
         System.out.print("Enter any number form 1 to 1000: ");
         Scanner scan = new Scanner(System.in);
