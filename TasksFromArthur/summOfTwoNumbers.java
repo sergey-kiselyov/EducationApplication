@@ -13,7 +13,7 @@ public class summOfTwoNumbers {
         int result = number1 + number2;
         switch (result) {
             case 1:
-                System.out.println("One");
+                System.out.println("one");
                 break;
             case 2:
                 System.out.println("two");
@@ -43,8 +43,7 @@ public class summOfTwoNumbers {
                 System.out.println("ten");
                 break;
             default:
-
-                break;
+                System.out.println("What are you doing?");
         }
     }
 }
