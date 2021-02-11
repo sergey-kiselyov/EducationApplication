@@ -2,7 +2,7 @@ package TasksFromArthur;
 
 import java.util.Scanner;
 
-public class SummByWords extends mainPageSummByWords{
+public class SummByWords extends mainPageSummByWords {
     public static void main(String[] args) {
         Scanner k = new Scanner(System.in);
         System.out.println("Input two words as number, for example " + "'One'");
@@ -18,9 +18,6 @@ public class SummByWords extends mainPageSummByWords{
         }
         System.out.println(resultInWords);
     }
-
-
-
 }
 
 
